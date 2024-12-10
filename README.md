@@ -9,7 +9,7 @@ Olá, tudo certinho? Eu sou o Lucas 👋
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-Antonio-Russo&locale=pt-br&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/Lucas-Antonio-Russo/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Antonio-Russo&layout=compact&langs_count=8&card_width=280&locale=pt-br&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Antonio-Russo&layout=compact&langs_count=80&locale=pt-br&theme=tokyonight" />
   </a>
 </div>
 
