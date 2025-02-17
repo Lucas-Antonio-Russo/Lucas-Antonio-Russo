@@ -1,8 +1,5 @@
 Olá, tudo certinho? Eu sou o Lucas 👋
 
-- 🔭 Atualmente trabalhando na Voltz Paineis Eletricos ...
-- 🌱 Atualmente estudando Front End ...
-  ##
   <br>
 <div>
   <a href="https://github.com/Lucas-Antonio-Russo/github-readme-stats">
